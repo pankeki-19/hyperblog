@@ -3,3 +3,5 @@ Esta es una historia de un canadiense
 Que quiere estudiar más sobre git y sus funciones
 
 Mañana nos enfocaremos en su vida laboral
+
+Aqui se añadió la modificación de una persona diferente.
